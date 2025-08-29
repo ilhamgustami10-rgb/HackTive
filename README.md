@@ -1,6 +1,8 @@
 # HackTive
 Mental health chat analysis
 
+Di sini saya menggunakan dua dataset, dari kaggle dan juga scrapping. Untuk Link dataset kaggle ada di bawah. Selain itu saya gunakan gdrive untuk mengumpulkan semua link nya secara langsung(bit.ly/Hacktive_Classification)
+
 bit.ly/Hacktive_Classification (Link Gdrive untuk dataset, code, PPT)
 
 PROJECT OVERVIEW & ANALYSIS PROCESS
